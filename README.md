@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application de Gestion de Matches de Football
 Cette application fullstack permet de gérer des matches de football avec une interface React en frontend et une API Express.js en backend, reliée à une base de données MongoDB.
  
@@ -119,3 +120,6 @@ Application-client-server/
 •	Réponse : 200 OK avec un message de confirmation
 
 
+=======
+# Application-Web-le-Suivi-des-Scores-de-Tournoi
+>>>>>>> 2fcd5ceaae068ec4c5d50a4100c3f992ef3f525d

@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Application de Gestion de Matches de Football
+# Application-Web-le-Suivi-des-Scores-de-Tournoi
 Cette application fullstack permet de gérer des matches de football avec une interface React en frontend et une API Express.js en backend, reliée à une base de données MongoDB.
  
 ## Fonctionnalités
